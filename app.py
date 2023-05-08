@@ -25,7 +25,6 @@ class_locations = {
 }
 
 
-
 # Load the model
 model = load_model('model.h5')
 
