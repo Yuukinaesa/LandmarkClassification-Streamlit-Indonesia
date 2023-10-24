@@ -1,5 +1,7 @@
 # LandmarkClassification
-Repository ini untuk klasifikasi landmark secara online akan tetapi melalui model dari hasil training data yang dilakukan sebelumnya. <br>
-Jika ingin versi yang sudah disediakan library oleh tensorflow dan google bisa akses ke repo https://github.com/Yuukinaesa/Landmark
+This application was created to advance Indonesian tourism.
+So tourists can find out what landmarks are in Indonesia.
+
+This landmark is not only a tourist attraction for local and foreign tourists but also a symbol of the identity of a city or region. Therefore, it is essential to preserve and maintain the existence of this landmark as part of Indonesia's cultural heritage.
 
 ![Screenshot](Screenshot.png)
